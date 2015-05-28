@@ -1,0 +1,10 @@
+{
+  "name": "my-app",
+  "description": "My first Tabris.js app",
+  "main": "app.js",
+  "dependencies": {
+    "tabris": "1.0",
+    "promise": "^6.1.0",
+    "whatwg-fetch": "^0.7.0"
+ }
+}
